@@ -1,0 +1,45 @@
+Juarez|Plaza Universidad|689|Refugio|1000|Mexicaltzingo|900*
+Plaza Universidad|San Juan de Dios|758|Juarez|689|Independencia|709|Santuario|993*
+Refugio|Mezquitan|1100|Juarez|1000*
+San Juan de Dios|Belisario Domínguez|1020|Plaza Universidad|758*
+Independencia|Plaza de la Bandera|1460|Plaza Universidad|709*
+Santuario|Plaza Universidad|993|La Normal|975*
+Belisario Domínguez|Oblatos|954|San Juan de Dios|1020*
+Plaza de la Bandera|CUCEI|1070|Independencia|1460*
+La Normal|Santuario|975|Ávila Camacho|1060*
+Oblatos|Cristóbal de Oñate|1030|Belisario Domínguez|954*
+CUCEI|Revolución|1740|Plaza de la Bandera|1070*
+Ávila Camacho|La Normal|1060|Circunvalación Country|1420|División del Norte|1000|Mezquitan|800*
+Cristóbal de Oñate|San Andrés|791|Oblatos|1030*
+Revolución|Río Nilo|990|CUCEI|1740*
+San Andrés|San Jacinto|920|Cristóbal de Oñate|791*
+San Jacinto|La Aurora|1230|San Andrés|920*
+La Aurora|Tetlán|1090|San Jacinto|1230*
+Tetlán|La Aurora|1090*
+Arcos de Zapopan|Periférico Belenes|550*
+Periférico Belenes|Mercado del Mar|1800|Arcos de Zapopan|550*
+Mercado del Mar|Zapopan Centro|1180|Periférico Belenes|1800*
+Zapopan Centro|Plaza Patria|1570|Mercado del Mar|1180*
+Plaza Patria|Circunvalación Country|1140|Zapopan Centro|1570*
+Circunvalación Country|Ávila Camacho|1420|Plaza Patria|1140*
+División del Norte|Atemajac|900|Ávila Camacho|1000*
+Río Nilo|Tlaquepaque Centro|932|Revolución|990*
+Tlaquepaque Centro|Lázaro Cárdenas|696|Río Nilo|932*
+Lázaro Cárdenas|Central de Autobuses|1590|Tlaquepaque Centro|696*
+Central de Autobuses|Lázaro Cárdenas|1590*
+Periférico Sur|Santuario Mártires de Cristo Rey|900*
+Santuario Mártires de Cristo Rey|España|1200|Periférico Sur|900*
+España|Patria|850|Santuario Mártires de Cristo Rey|1200*
+Patria|Isla Raza|600|España|850*
+Isla Raza|18 de Marzo|700|Patria|600*
+18 de Marzo|Urdaneta|700|Isla Raza|700*
+Urdaneta|Unidad Deportiva|1000|18 de Marzo|700*
+Unidad Deportiva|Santa Filomena|1000|Urdaneta|1000*
+Santa Filomena|Washington|1000|Unidad Deportiva|1000*
+Washington|Mexicaltzingo|1100|Santa Filomena|1000*
+Mexicaltzingo|Juarez|900|Washington|1100*
+Mezquitan|Ávila Camacho|800|Refugio|1100*
+Atemajac|Dermatológico|700|División del Norte|900*
+Dermatológico|Periférico Norte|1300|Atemajac|700*
+Periférico Norte|Auditorio|550|Dermatológico|1300*
+Auditorio|Periférico Norte|550*

@@ -1,0 +1,27 @@
+Juarez|Plaza Universidad|689*
+Plaza Universidad|San Juan de Dios|758|Juarez|689|Independencia|709*
+San Juan de Dios|Belisario Domínguez|1020|Plaza Universidad|758*
+Belisario Domínguez|Oblatos|954|San Juan de Dios|1020*
+Oblatos|Cristóbal de Oñate|1030|Belisario Domínguez|954*
+Cristóbal de Oñate|San Andrés|791|Oblatos|1030*
+San Andrés|San Jacinto|920|Cristóbal de Oñate|791*
+San Jacinto|La Aurora|1230|San Andrés|920*
+La Aurora|Tetlán|1090|San Jacinto|1230*
+Tetlán|La Aurora|1090*
+Arcos de Zapopan|Periférico Belenes|550*
+Periférico Belenes|Mercado del Mar|1800*
+Mercado del Mar|Zapopan Centro|1180*
+Zapopan Centro|Plaza Patria|1570*
+Plaza Patria|Circunvalación Country|1140*
+Circunvalación Country|Ávila Camacho|1420*
+Ávila Camacho|La Normal|1060*
+La Normal|Santuario|975*
+Santuario|Plaza Universidad|993*
+Independencia|Plaza de la Bandera|1460*
+Plaza de la Bandera|CUCEI|1070*
+CUCEI|Revolución|1740*
+Revolución|Río Nilo|990*
+Río Nilo|Tlaquepaque Centro|932*
+Tlaquepaque Centro|Lázaro Cárdenas|696*
+Lázaro Cárdenas|Central de Autobuses|1590*
+Central de Autobuses|*
